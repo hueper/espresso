@@ -22,7 +22,7 @@ Espresso is a web application designed to make language learning a delightful ex
 
 - **Swipe Interface:** Easily indicate your understanding of expressions by swiping left or right.
 - **React Framework:** Built with React for a responsive and interactive user experience.
-- **Expression Repository:** Expressions to learn are stored in a JSON file at `src/data/expressions.json`.
+- **Expression Repository:** Expressions to learn are stored in a JSON file at `src/data/espressione.json`.
 
 ## Getting Started
 
