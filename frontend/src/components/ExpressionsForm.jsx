@@ -116,7 +116,7 @@ const SwipeableCards = ({ phrases }) => {
       <AppBar position="fixed" style={{ backgroundColor: '#0C0A3E', zIndex: 1000 }}>
         <Toolbar>
           <Typography variant="" component="div" sx={{ flexGrow: 1 }}>
-            Espressione {unknownPhrases.length} / {knownPhrases.length}
+            expressions {unknownPhrases.length} / {knownPhrases.length}
           </Typography>
         </Toolbar>
       </AppBar>
